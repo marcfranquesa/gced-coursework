@@ -3,5 +3,6 @@
 
 Here are the different courses:
 
+* [AP3](/AP3): algorithmics and programming 3
 * [CAI](/CAI): information retrieval and analysis
 * [VI](/VI): information visualization
