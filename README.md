@@ -1,6 +1,7 @@
 # GCED coursework
-Data Science and Engineering (UPC) coursework that I have decided to save here.
+[Data Science and Engineering (UPC)](https://www.upc.edu/en/bachelors/data-science-and-engineering-barcelona-fib-etsetb-fme) coursework that I have decided to save here.
 
 Here are the different courses:
 
 * [CAI](/CAI): information retrieval and analysis
+* [VI](/VI): information visualization

@@ -1,0 +1,4 @@
+altair
+pandas
+jupyter
+vega_datasets
