@@ -4,3 +4,6 @@ nbformat
 pandas
 scipy
 jupyter
+elasticsearch==7.17.9
+elasticsearch-dsl==7.4.1
+lorem
