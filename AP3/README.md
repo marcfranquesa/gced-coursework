@@ -8,4 +8,4 @@ Fall semester of 2023/2024. This folder includes all programs submitted to the A
 Some codes are better annotated than others, to read the problem description go to [Jutge](https://jutge.org).
 
 Command used to compile:
-* `g++ -Wall -O2 -std=c++17 `_`<file>`_
+* `g++ -Wall -O3 -std=c++20 `_`<file>`_

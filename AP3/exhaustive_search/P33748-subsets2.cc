@@ -13,11 +13,9 @@ VB use;
 
 void show_subset(){
     cout << '{';
-    bool first = true;
     for (int i = 0; i < use.size(); ++i){
         if (use[i]){
-            if (not first) cout << ',';
-            else first = false;
+            if (i != 0) cout << ',';
             cout << words[i];
         } 
     }
