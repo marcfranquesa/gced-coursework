@@ -3,3 +3,4 @@ Fall semester of 2023/2024. This folder includes a _requirements.txt_ file conta
 
 * [Lab 1](/VI/lab1): intro to Altair python library for visualization
 * [Lab 2](/VI/lab2): more introductory exercises to Altair python library
+* [Lab 3](/VI/lab3): first steps with Streamlit
