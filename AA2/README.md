@@ -6,3 +6,4 @@ Fall semester of 2023/2024. Here is a list of labs included as well as a brief d
 * [Lab 3](/AA2/lab3): intro to _loss functions_, _optimizers_ & _learning rate schedulers_.
 * [Lab 4](/AA2/lab4): creating a simple MLP to classify the _MNIST_ dataset.
 * [Lab 5](/AA2/lab5): creating a CNN to classify the _MNIST_ dataset.
+* [Lab 6](/AA2/lab6): techinques to interpret what a _CNN_ is doing.
