@@ -163,3 +163,4 @@ cython_debug/
 txt.txt
 
 .vscode
+.DS_Store

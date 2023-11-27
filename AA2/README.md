@@ -7,4 +7,5 @@ Fall semester of 2023/2024. Here is a list of labs included as well as a brief d
 * [Lab 4](/AA2/lab4): creating a simple MLP to classify the _MNIST_ dataset
 * [Lab 5](/AA2/lab5): creating a CNN to classify the _MNIST_ dataset
 * [Lab 6](/AA2/lab6): techinques to interpret what a _CNN_ is doing
-* [Lab 7](/AA2/lab7): palying around with imagenet
+* [Lab 7](/AA2/lab7): playing around with imagenet
+* [Lab 8](/AA2/lab8): fighting overfitting
