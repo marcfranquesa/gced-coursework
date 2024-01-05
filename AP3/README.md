@@ -5,7 +5,9 @@ Fall semester of 2023/2024. This folder includes all programs submitted to the A
 * [Exhaustive search](/AP3/exhaustive_search)
 * [Greedy algorithms](/AP3/greedy_algorithms)
 
-Some codes are better annotated than others, to read the problem description go to [Jutge](https://jutge.org).
+There is also a [folder containing exam exercises](/AP3/exams).
+
+All the codes provide an approved solution however some codes may be better annotated than others. To read the full problem description go to [Jutge](https://jutge.org).
 
 Command used to compile:
 * `g++ -Wall -O3 -std=c++17 `_`<file>`_
