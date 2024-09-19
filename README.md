@@ -8,4 +8,5 @@ Here are the different courses:
 * [AP3](/AP3): algorithmics and programming 3
 * [BDA](/BDA): advanced databases
 * [CAI](/CAI): information retrieval and analysis
+* [MAE](/MAE): matlab and its engineering applications
 * [VI](/VI): information visualization
